@@ -19,4 +19,4 @@ I used requests, smtplib, time, selenium, BeautifulSoup and random module in thi
 ## INSTRUCTIONS
 * Open up the project in your preferred IDE, fill in some of the data in the code where mentioned e.g. your email, password e.t.c. 
 * Run the program in your IDE, a seperate chrome window will open where the program automatically runs and all window will close after program execution.
-* One completed, you will recieve an email that you mentioned in the code.
+* Once completed, you will recieve an email that has a link to your spreadsheet and will contain your plan for the day.
