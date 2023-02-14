@@ -1,6 +1,6 @@
 # Meal-Plan-Automation
 
-Since, I am a Fitness Fanatic and I always trying to find healthy diet plans. I decided to create a program that does that all for me as scrolling through hundreds of recipes everyday and trying to figure out what to make for the day consumes a lot of time this programs is a perfect source and can be used by many others who are consistently looking for a healthy meal plan.
+Since, I am a Fitness Fanatic and I always trying to find healthy diet plans. I decided to create a program that does that all for me as scrolling through hundreds of recipes everyday and trying to figure out what to make for the day consumes a lot of time this programs saves a lot of that effort and can be used by many others who are consistently looking for a healthy meal plan.
 
 - I made this app using python OOP and automation that uses Selenium web driver which collects healthy breakfast, lunch and dinner recipes from [Eating Well](https://www.eatingwell.com/). A google form is then filled through automation with all the data gathered and a google spreadsheet is then sent to the user where he can keep track and find all the recipes.
 - I used requests, smtplib, time, selenium, BeautifulSoup and random module in this program.
